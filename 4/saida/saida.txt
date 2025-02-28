@@ -1,0 +1,122 @@
+----- BANCO DE USUARIOS -----
+--------------------
+- Nome: TAHM KENCH
+- CPF: 123.932.250-46
+- Data de Nascimento: 1/9/1955
+- Telefone: (34)96373-7004
+- Genero: OUTROS
+- Setor: RH
+- Tickets solicitados: 0
+--------------------
+- Nome: JINX MOREIRA
+- CPF: 351.574.251-43
+- Data de Nascimento: 1/4/2003
+- Telefone: (12)96210-7123
+- Genero: FEMININO
+- Setor: MARKETING
+- Tickets solicitados: 0
+----------------------------
+
+----- BANCO DE TECNICOS -----
+--------------------
+- Nome: JAYCE BARBOSA
+- CPF: 854.632.894-20
+- Data de Nascimento: 22/2/1990
+- Telefone: (37)9938-3382
+- Genero: MASCULINO
+- Area de Atuacao: GERAL
+- Salario: 2000.00
+- Disponibilidade: 7h
+- Tempo Trabalhado: 0h
+--------------------
+- Nome: HEIMERDINGER GARCIA
+- CPF: 456.987.123-96
+- Data de Nascimento: 20/10/1945
+- Telefone: (90)99876-1234
+- Genero: MASCULINO
+- Area de Atuacao: GERAL
+- Salario: 3500.00
+- Disponibilidade: 20h
+- Tempo Trabalhado: 0h
+--------------------
+- Nome: DR. MUNDO
+- CPF: 564.587.965-85
+- Data de Nascimento: 15/5/1988
+- Telefone: (34)98761-2345
+- Genero: OUTROS
+- Area de Atuacao: TI
+- Salario: 4200.00
+- Disponibilidade: 10h
+- Tempo Trabalhado: 0h
+----------------------------
+
+----- RELATORIO GERAL -----
+- Qtd tickets: 4
+- Qtd tickets (A): 4
+- Qtd tickets (F): 0
+- Qtd usuarios: 4
+- Md idade usuarios: 39
+- Qtd tecnicos: 3
+- Md idade tecnicos: 49
+- Md trabalho tecnicos: 0
+---------------------------
+
+----- FILA DE TICKETS -----
+---------TICKET-----------
+- ID: Tick-1
+- Usuario solicitante: 255.942.213-22
+- Tipo: Outros
+- Descricao: RECOLHER COBRA QUE APARECEU NA ENTRADA DO PREDIO
+- Local: PASSARELA DA INFORMATICA
+- Nivel de Dificuldade: 5
+- Tempo Estimado: 5h
+- Status: Finalizado
+-------------------------
+
+---------TICKET-----------
+- ID: Tick-2
+- Usuario solicitante: 123.932.250-46
+- Tipo: Outros
+- Descricao: UM GAMBA MORREU NO TETO DO PREDIO E PRECISAMOS DE APOIO
+- Local: TETO DO CT-7
+- Nivel de Dificuldade: 5
+- Tempo Estimado: 5h
+- Status: Finalizado
+-------------------------
+
+---------TICKET-----------
+- ID: Tick-3
+- Usuario solicitante: 123.932.250-46
+- Tipo: Manutencao
+- Nome do item: PORTA DE ENTRADA
+- Estado de conservacao: RUIM
+- Local: SALA 22 CT-7
+- Tempo estimado: 6h
+- Status: Finalizado
+-------------------------
+
+---------TICKET-----------
+- ID: Tick-4
+- Usuario solicitante: 524.456.852-98
+- Tipo: Software
+- Nome do software: EXCEL
+- Categoria: DUVIDA
+- Nível do impacto: 2
+- Motivo: NAO CONSIGO ORDENAR COLUNA DE DADOS
+- Tempo estimado: 3h
+- Status: Finalizado
+-------------------------
+
+---------------------------
+
+----- RELATORIO GERAL -----
+- Qtd tickets: 4
+- Qtd tickets (A): 0
+- Qtd tickets (F): 4
+- Qtd usuarios: 4
+- Md idade usuarios: 39
+- Qtd tecnicos: 3
+- Md idade tecnicos: 49
+- Md trabalho tecnicos: 6
+---------------------------
+
