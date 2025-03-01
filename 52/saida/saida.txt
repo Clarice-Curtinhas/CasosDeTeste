@@ -128,19 +128,19 @@
 - Nível do impacto: 2
 - Motivo: NAO CONSIGO ORDENAR COLUNA DE DADOS
 - Tempo estimado: 3h
-- Status: Finalizado
+- Status: Aberto
 -------------------------
 
 ---------------------------
 
 ----- RELATORIO GERAL -----
 - Qtd tickets: 6
-- Qtd tickets (A): 1
-- Qtd tickets (F): 5
+- Qtd tickets (A): 2
+- Qtd tickets (F): 4
 - Qtd usuarios: 4
 - Md idade usuarios: 39
 - Qtd tecnicos: 3
 - Md idade tecnicos: 49
-- Md trabalho tecnicos: 8
+- Md trabalho tecnicos: 7
 ---------------------------
 
